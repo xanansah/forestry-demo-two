@@ -11,3 +11,5 @@ fields:
 - type: text
   name: author
   label: Author
+pages:
+- _posts/okay.md
